@@ -1,2 +1,3 @@
-# Address-Location
-Address coordinates with csv file.
+# Address Locator
+## Finds the coordinates of the given addresses.
+
